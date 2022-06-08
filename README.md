@@ -9,7 +9,8 @@ Lancer le fichier .exe ne suffit pas, suivez les étapes de l'installation.
 ## Installation
 
 ### 1) Télécharger le dossier en entier
-![DL](https://i.postimg.cc/hGCg7Pcc/dl.png)
+<img src="https://i.postimg.cc/hGCg7Pcc/dl.png" width="400" height="200">
+
 Dezipper le : click droit => extraire
 ### 2) Installation VLC
 Le logiciel est basé sur [VLC](https://www.videolan.org/vlc/index.fr.html). Vous pouvez simplement le télécharger sur leur site officiel via le lien.

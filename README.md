@@ -8,11 +8,14 @@ Lancer le fichier .exe ne suffit pas, suivez les étapes de l'installation.
 
 ## Installation
 
-### 1) Installation VLC
+### 1) Télécharger le dossier en entier
+![DL](https://i.postimg.cc/hGCg7Pcc/dl.png)
+Dezipper le : click droit => extraire
+### 2) Installation VLC
 Le logiciel est basé sur [VLC](https://www.videolan.org/vlc/index.fr.html). Vous pouvez simplement le télécharger sur leur site officiel via le lien.
-### 2) Installation NodeJs
+### 3) Installation NodeJs
 Le streaming est possible grâce à NodeJs que vous pouvez aussi télécharger sur leur site officiel [NodeJs](https://nodejs.org/en/).
-### 3) Installation Webtorrent
+### 4) Installation Webtorrent
 Lancer votre invite de commandes(dans la barre de recherche tapez cmd) et copier/coller ca:
 ```
 npm install webtorrent-cli -g
